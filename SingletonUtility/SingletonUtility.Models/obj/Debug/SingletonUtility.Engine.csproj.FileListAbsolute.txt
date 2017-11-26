@@ -1,0 +1,4 @@
+D:\GIT\SingletonUtility\SingletonUtility.Models\bin\Debug\SingletonUtility.Models.dll
+D:\GIT\SingletonUtility\SingletonUtility.Models\bin\Debug\SingletonUtility.Models.pdb
+D:\GIT\SingletonUtility\SingletonUtility.Models\obj\Debug\SingletonUtility.Models.dll
+D:\GIT\SingletonUtility\SingletonUtility.Models\obj\Debug\SingletonUtility.Models.pdb

@@ -1,0 +1,10 @@
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.exe.config
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.exe
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.pdb
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.Core.dll
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.Models.dll
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.Core.pdb
+D:\GIT\SingletonUtility\SingletonUtility\bin\Debug\SingletonUtility.Models.pdb
+D:\GIT\SingletonUtility\SingletonUtility\obj\Debug\Consumer.csprojResolveAssemblyReference.cache
+D:\GIT\SingletonUtility\SingletonUtility\obj\Debug\SingletonUtility.exe
+D:\GIT\SingletonUtility\SingletonUtility\obj\Debug\SingletonUtility.pdb
