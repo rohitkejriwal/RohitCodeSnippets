@@ -1,0 +1,6 @@
+D:\GIT\HandleDivideByZero\HandleDivideByZero\bin\Debug\HandleDivideByZero.exe.config
+D:\GIT\HandleDivideByZero\HandleDivideByZero\bin\Debug\HandleDivideByZero.exe
+D:\GIT\HandleDivideByZero\HandleDivideByZero\bin\Debug\HandleDivideByZero.pdb
+D:\GIT\HandleDivideByZero\HandleDivideByZero\obj\Debug\HandleDivideByZero.csprojResolveAssemblyReference.cache
+D:\GIT\HandleDivideByZero\HandleDivideByZero\obj\Debug\HandleDivideByZero.exe
+D:\GIT\HandleDivideByZero\HandleDivideByZero\obj\Debug\HandleDivideByZero.pdb
