@@ -1,0 +1,338 @@
+    <!------------------ start of chat ------------------->
+
+	<div class="chat-container">
+
+        <div class="chatdate">One week ago</div>
+
+		<div class="message_box">
+		<div class="mytxt">
+		<div class="mytxt_avatar"><img src="contents/images/user.png" alt="user" /><span class="delivery_status"><i class="delivered material-icons">done_all</i></span></div>
+			<div class="mytxt_msg_group">
+            <div class="mytxt_msg">
+				give me ticket price of LottoMax
+				<div class="mytxt_sentat">12:40AM</div>
+			</div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Here is the details
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+        <article class="server-response-result white-bg grey-shadow border-radius-3 padding-10" type="response3" id="response_id_3">  <!-- response with single thumnail --->
+            <div class="sr-thumbnail"><img src="contents/images/logo_en.png" alt="user" /></div>
+            <h3>$3 - LottoMax Ticket price</h3>
+            <p>LottoMax ticket Price is $3</p>
+            <div class="clear"></div>
+            <div class="sr-footer"><p><i>Disclamer</i></p></div>
+            <div class="clear"></div>
+        </article>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Do you want to know the Jackpot amount?
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+        <div class="message_box">
+		<div class="mytxt">
+		<div class="mytxt_avatar"><img src="contents/images/user.png" alt="user" /><span class="delivery_status"><i class="delivered material-icons">done_all</i></span></div>
+			<div class="mytxt_msg_group">
+            <div class="mytxt_msg">
+				Yes
+				<div class="mytxt_sentat">12:41AM</div>
+			</div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Here is the details
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+        <article class="server-response-result white-bg grey-shadow border-radius-3 padding-10" type="response3" id="response_id_3">  <!-- response with single thumnail --->
+            <div class="sr-thumbnail"><img src="contents/images/gold-jackpot.png" alt="user" /></div>
+            <h3>Jackpot Amount for LottoMax $700000</h3>
+            <p>Jackpot Amount for LottoMax $700000</p>
+            <div class="clear"></div>
+            <div class="sr-footer"><p><i>Disclamer</i></p></div>
+            <div class="clear"></div>
+        </article>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    You want to find the nearest retailer for by this game
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+      <div class="message_box">
+		<div class="mytxt">
+		<div class="mytxt_avatar"><img src="contents/images/user.png" alt="user" /><span class="delivery_status"><i class="delivered material-icons">done_all</i></span></div>
+			<div class="mytxt_msg_group">
+            <div class="mytxt_msg">
+				Yes
+				<div class="mytxt_sentat">12:41AM</div>
+			</div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Here is the nearest reailer details
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+        <article class="server-response-result" type="response5" id="response_id_5"> <!-- response with single thumnail ----->
+            <div class="card-container" style="width:{{totalitem*181}}px">
+
+            <div class="card white-bg grey-shadow border-radius-3" ng-repeat="o in retailer">
+                <a href="#">
+                <div class="card-banner" style="background: url({{o.url}})"></div>
+                <div class="card-content  padding-10">
+                    <div class="card-title"><h5>{{o.name}}</h5></div> <!-- <span>{{o.place}}</span> -->
+<!--
+                    <p class="card-rating"><i class="material-icons fullstar">star</i>
+                        <i class="material-icons fullstar">star</i>
+                        <i class="material-icons fullstar">star</i>
+                        <i class="material-icons halfstar">star_half</i>
+                        <i class="material-icons nostar">star_border</i> <span>{{o.distance}}</span></p>
+                    <p>{{o.type}}</p>
+-->
+                </div>
+                  </a>
+                    <div class="sr-footer sr-footer-icon-set">
+                <div class="sr-footer-social">
+                    <a>
+                    <div class="sr-footer-icon"><img src="contents/images/google-icon.png" alt="social" /></div>
+                    Search..
+                    </a>
+                </div>
+                <div class="sr-footer-social">
+                    <a>
+                    <div class="sr-footer-icon"><img src="contents/images/Phone-icon.png" alt="social" /></div>
+                    Call
+                    </a>
+                </div>
+                <div class="sr-footer-social">
+                    <a>
+                    <div class="sr-footer-icon"><img src="contents/images/Maps-icon.png" alt="social" /></div>
+                    Map
+                    </a>
+                </div>
+                <div class="clear"></div>
+            </div>
+            </div><!-- en dof card -->
+
+            <div class="clear"></div>
+                </div>
+        </article>
+
+        <div class="chatdate">2 days ago</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Congrats you won $40 in LottoMax
+                    <img src="contents/images/winner.jpg" />
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+        <div class="chatdate">Today</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Good Morning
+                    <img src="contents/images/greetings/morning.jpg" />
+                    <div class="server_sentat"></div>
+                </div>
+                 <div class="server_msg server_msg_continue">
+                   Hope you doing well
+                    <div class="server_sentat"></div>
+                </div>
+                <div class="server_msg server_msg_continue">
+                    You want know the Highest Jackpot Amount?
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+        <div class="message_box">
+		<div class="mytxt">
+		<div class="mytxt_avatar"><img src="contents/images/user.png" alt="user" /><span class="delivery_status"><i class="delivered material-icons">done_all</i></span></div>
+			<div class="mytxt_msg_group">
+            <div class="mytxt_msg">
+				Yes
+				<div class="mytxt_sentat">9:41AM</div>
+			</div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    Here is the details
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+        <article class="server-response-result white-bg grey-shadow border-radius-3 padding-10" type="response2" id="response_id_2">  <!-- google response ----->
+            <h3>Lottery jackpot records - Wikipedia</h3>
+            <p><a>https://en.wikipedia.org/wiki/Lottery_jackpot_records</a></p>
+            <hr>
+            <p>This is a collection of notable lottery jackpot records in the United States and Europe, listing the largest prizes/jackpots awarded in various drawings. The January 13, 2016 U.S. Powerball drawing created the largest jackpot in ...</p>
+            <div class="sr-footer"><p><i>Disclamer</i></p></div>
+        </article>
+
+        <div class="message_box">
+		<div class="mytxt">
+		<div class="mytxt_avatar"><img src="contents/images/user.png" alt="user" /><span class="delivery_status"><i class="delivered material-icons">done_all</i></span></div>
+			<div class="mytxt_msg_group">
+            <div class="mytxt_msg">
+				what is my most purchases  game
+				<div class="mytxt_sentat">10:41AM</div>
+			</div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+
+        <div class="server-response">
+            <div class="servertxt">
+                <div class="server_avatar"><img src="contents/images/pc.png" alt="server" /></div>
+                <div class="server_msg_group">
+                <div class="server_msg">
+                    You purchases pick 4 tickets 120 times, Last month purchases 4 times.
+                    <div class="server_sentat"></div>
+                </div>
+                </div>
+                <div class="clear"></div>
+            </div>
+        </div><!-- end of server response -->
+
+<!--
+        <article class="server-response-result white-bg grey-shadow border-radius-3 padding-10" type="response4" id="response_id_4">  response with single thumnail and footer ---
+            <div class="sr-thumbnail"><img src="contents/images/hotel.jpg" alt="hotel" /></div>
+            <h3>Lottery Retailers</h3>
+            <div class="ratings">
+            <p><i class="material-icons fullstar">star</i>
+                <i class="material-icons fullstar">star</i>
+                <i class="material-icons fullstar">star</i>
+                <i class="material-icons halfstar">star_half</i>
+                <i class="material-icons nostar">star_border</i> <span>9 Reviews</span></p>
+                <div class="clear"></div>
+            </div>
+            <p>Retailer</p>
+            <div class="clear"></div>
+            <div class="sr-footer sr-footer-icon-set">
+                <div class="sr-footer-social">
+                    <a>
+                    <div class="sr-footer-icon"><img src="contents/images/google-icon.png" alt="social" /></div>
+                    Search..
+                    </a>
+                </div>
+                <div class="sr-footer-social">
+                    <a>
+                    <div class="sr-footer-icon"><img src="contents/images/Phone-icon.png" alt="social" /></div>
+                    Call
+                    </a>
+                </div>
+                <div class="sr-footer-social">
+                    <a>
+                    <div class="sr-footer-icon"><img src="contents/images/Maps-icon.png" alt="social" /></div>
+                    Map
+                    </a>
+                </div>
+                <div class="clear"></div>
+            </div>
+            <div class="clear"></div>
+        </article>
+-->
+
+<!--
+        <article class="server-response-result white-bg grey-shadow border-radius-3 padding-10" type="response1" id="response_id_1">  plain response ---
+            <h3>68.43 Indian Rupee</h3>
+            <p>1 US Dollar</p>
+            <div class="sr-footer"><p><i>Disclamer</i></p></div>
+        </article>
+-->
+
+        <div class="message_box typing">
+		<div class="mytxt">
+		<div class="mytxt_avatar"><img src="contents/images/user.png" alt="user" /></div>
+            <div class="mytxt_msg_group">
+			<div class="mytxt_msg">
+				<li class="three-bounce selected">
+                  <div class="one"></div>
+                  <div class="two"></div>
+                  <div class="three"></div>
+                </li>
+			</div>
+            </div>
+			<div class="clear"></div>
+		</div>
+		</div>
+
+		<div class="clear"></div>
+	</div><!-- end of chat container -->
+
+<!------------------ end of chat ------------------->	

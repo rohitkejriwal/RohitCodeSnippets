@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sgi.LPA.AI</name>
+    </assembly>
+    <members>
+        <member name="T:Sgi.LPA.AI.AIEngine">
+            <summary>
+            test this test
+            </summary>
+            <seealso cref="T:Sgi.LPA.Common.AI.IAIEngine"/>
+        </member>
+        <member name="M:Sgi.LPA.AI.AIEngine.JustifyAutoCorrect">
+            <summary>
+            find most appropriate auto-correct sentence
+            </summary>
+            <returns></returns>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:Sgi.LPA.AI.AIEngine.FindChatContextEntities">
+            <summary>
+            Finds the chat context entities.
+            </summary>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+        <member name="M:Sgi.LPA.AI.AIEngine.FindChatChannel">
+            <summary>
+            Finds the chat channel.
+            </summary>
+            <exception cref="T:System.NotImplementedException"></exception>
+        </member>
+    </members>
+</doc>

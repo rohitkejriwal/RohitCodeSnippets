@@ -1,0 +1,63 @@
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe.config
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\EntityFramework.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\Newtonsoft.Json.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.WebRequest.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.SelfHost.dll
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\EntityFramework.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\Newtonsoft.Json.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.WebRequest.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.SelfHost.xml
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.exe
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.pdb
+D:\AkhilMittal\Articles and Blogs\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe.config
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.pdb
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\EntityFramework.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\Newtonsoft.Json.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.Formatting.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.WebRequest.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.SelfHost.dll
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\EntityFramework.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\Newtonsoft.Json.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.Formatting.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.WebRequest.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.SelfHost.xml
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.csprojResolveAssemblyReference.cache
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.exe
+D:\OneDrive\Articles\WebAPI\SelfHost\WebApi\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe.config
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\EntityFramework.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\EntityFramework.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.csprojResolveAssemblyReference.cache
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.exe
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\AutoCorrect\SelfHostedAPI\SelfHostedAPI\bin\Debug\SelfHostedAPI.exe.config
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\AutoCorrect\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.exe
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\AutoCorrect\SelfHostedAPI\SelfHostedAPI\obj\x86\Debug\SelfHostedAPI.pdb

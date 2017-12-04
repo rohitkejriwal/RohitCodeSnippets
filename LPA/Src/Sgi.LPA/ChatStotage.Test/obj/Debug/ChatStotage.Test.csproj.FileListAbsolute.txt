@@ -1,0 +1,10 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatStotage.Test\bin\Debug\ChatStotage.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatStotage.Test\bin\Debug\ChatStotage.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatStotage.Test\obj\Debug\ChatStotage.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatStotage.Test\obj\Debug\ChatStotage.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatStotage.Test\obj\Debug\ChatStotage.Test.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatStotage.Test\bin\Debug\ChatStotage.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatStotage.Test\bin\Debug\ChatStotage.Test.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatStotage.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatStotage.Test\obj\Debug\ChatStotage.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatStotage.Test\obj\Debug\ChatStotage.Test.pdb

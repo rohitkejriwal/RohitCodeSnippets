@@ -1,0 +1,50 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout1.cshtml";
+}
+
+@*@section title{
+    LPA
+}*@
+@section scripts{
+    @Html.Partial("DefineAngular")
+    <script>
+        System.import('app/bootchat');
+
+        function GetChatResponse(message, userAuthToken)
+        {
+            var messageBox = $("#chatTextBox");
+            var sendButton = $("#chatSendButton");
+            var authToken = $("#authToken");
+
+            messageBox.val(message);
+            authToken.val(userAuthToken);
+            sendButton.trigger('click');          
+        }
+
+        function ScrollToBottom()
+        {
+            document.getElementsByClassName('list-group')[0].scrollTop = document.getElementsByClassName('list-group')[0].scrollHeight;
+        }
+
+        function SetAndroidControlVisible()
+        {
+            if(window != null && window.CallToAnAndroidFunction != null && window.CallToAnAndroidFunction != undefined)
+            {
+                while (document.getElementsByTagName('ChatList') == [])
+                {
+
+                }
+                window.CallToAnAndroidFunction.setVisible();
+            }
+
+        }
+    </script>
+}
+<chatlist class="todolistcontent" >
+    @*<div class="waitloading">
+        <iframe src="https://giphy.com/embed/xTk9ZvMnbIiIew7IpW" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p></p>
+    </div>*@
+    <div class="waitloading">
+        loading...
+    </div>
+</chatlist>

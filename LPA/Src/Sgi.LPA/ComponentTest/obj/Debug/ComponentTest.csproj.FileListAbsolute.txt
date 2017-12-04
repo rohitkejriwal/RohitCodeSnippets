@@ -1,0 +1,5 @@
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ComponentTest\bin\Debug\ComponentTest.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ComponentTest\bin\Debug\ComponentTest.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ComponentTest\obj\Debug\ComponentTest.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ComponentTest\obj\Debug\ComponentTest.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ComponentTest\obj\Debug\ComponentTest.pdb

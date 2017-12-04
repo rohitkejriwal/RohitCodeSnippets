@@ -1,0 +1,92 @@
+﻿body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #ffffff;
+}
+
+header {
+    display: flex;
+    background-color:darkorchid;
+    border-bottom: 1px solid #e7eaec;
+    padding: 8px;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+}
+
+    header > div {
+        flex: 1;
+    }
+
+    header .title {
+        text-align: center;
+    }
+
+main {
+    flex: 1;
+    padding: 0px 0px 0px 0px;
+    margin-bottom: 0px;
+    overflow-y: auto;
+    display: flex;
+    background-color:#ffffff;
+}
+
+footer {
+    background-color: #000;
+    display: flex;
+    padding: 8px;
+    border-top: 1px solid #e7eaec;
+    align-items: center;
+    color: #337ab7;
+}
+
+.borderedboxlight {
+    background-color: #e6ffff;
+}
+
+.waitloading {
+    font-size: 26px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.todolistcontent {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+    .todolistcontent form {
+        display: flex;
+        flex: 1;
+    }
+
+    .Query{
+       padding:10px; 
+       background:#f0f0f0;
+       max-width:90%;
+       margin-left:5px;
+       margin-bottom:10px;
+       display:block;
+       border-radius:10px;
+       box-shadow: 0px 0px 5px grey;
+       font-weight: 300;
+       font-family: Arial;
+    }
+
+    .Response{
+       padding:10px; 
+       background:#ffffff;
+       max-width:80%;
+       margin-right:5px;
+       margin-bottom:10px;
+       border: 1px solid grey;
+       border-radius:10px;
+       box-shadow: 0px 0px 7px grey;
+       font-weight: 300;
+       font-family: 'Arial';
+       word-break: break-word;
+       display:block;
+    }

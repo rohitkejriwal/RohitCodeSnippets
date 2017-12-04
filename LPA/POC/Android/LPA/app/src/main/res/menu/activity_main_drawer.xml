@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/purchase"
+            android:title="My Purchase" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@mipmap/wins"
+            android:title="My Wins" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@mipmap/wallet"
+            android:title="My Wallet" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@mipmap/offers"
+            android:title="Hot Offer/Promotions" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@mipmap/profile"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_send"
+            android:icon="@mipmap/settings"
+            android:title="Settings" />
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@mipmap/help"
+            android:title="Help/Feedback" />
+    </group>
+</menu>

@@ -1,0 +1,14 @@
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\Logger.LogWriter.Mongo.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\Logger.LogWriter.Mongo.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\Logger.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\Logger.Domain.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\MongoDB.Bson.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\MongoDB.Driver.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\MongoDB.Driver.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\Logger.Core.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\Logger.Domain.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\MongoDB.Bson.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\bin\Release\MongoDB.Driver.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\obj\Release\Logger.LogWriter.Mongo.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\obj\Release\Logger.LogWriter.Mongo.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.LogWriter.Mongo\obj\Release\Logger.LogWriter.Mongo.pdb

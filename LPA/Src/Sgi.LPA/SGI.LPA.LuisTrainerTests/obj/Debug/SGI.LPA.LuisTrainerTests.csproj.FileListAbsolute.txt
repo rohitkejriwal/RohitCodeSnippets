@@ -1,0 +1,10 @@
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\SGI.LPA.LuisTrainerTests.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\SGI.LPA.LuisTrainerTests.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\SGI.LPA.LuisTrainer.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\Newtonsoft.Json.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\SGI.LPA.LuisTrainer.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\bin\Debug\Newtonsoft.Json.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\obj\Debug\SGI.LPA.LuisTrainerTests.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\obj\Debug\SGI.LPA.LuisTrainerTests.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\SGI.LPA.LuisTrainerTests\obj\Debug\SGI.LPA.LuisTrainerTests.pdb

@@ -1,0 +1,10 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatApi.Test\bin\Debug\ChatApi.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatApi.Test\bin\Debug\ChatApi.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatApi.Test\obj\Debug\ChatApi.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatApi.Test\obj\Debug\ChatApi.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatApi.Test\obj\Debug\ChatApi.Test.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatApi.Test\bin\Debug\ChatApi.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatApi.Test\bin\Debug\ChatApi.Test.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatApi.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatApi.Test\obj\Debug\ChatApi.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatApi.Test\obj\Debug\ChatApi.Test.pdb

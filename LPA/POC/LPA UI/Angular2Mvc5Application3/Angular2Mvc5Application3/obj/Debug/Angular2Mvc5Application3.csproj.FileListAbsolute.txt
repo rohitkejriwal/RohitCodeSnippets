@@ -1,0 +1,132 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\ApplicationInsights.config
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\csc.exe
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\vbc.exe
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\VBCSCompiler.exe
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Angular2Mvc5Application3.dll.config
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Angular2Mvc5Application3.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Angular2Mvc5Application3.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Antlr3.Runtime.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.SqlServer.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.Web.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.ApplicationInsights.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Newtonsoft.Json.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Owin.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Helpers.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Mvc.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Optimization.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Razor.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Razor.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.Net4.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\WebGrease.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.Web.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.ApplicationInsights.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Helpers.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Mvc.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Optimization.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Razor.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Razor.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.Net4.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Antlr3.Runtime.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Newtonsoft.Json.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.SqlServer.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\obj\Debug\Angular2Mvc5Application3.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\obj\Debug\Angular2Mvc5Application3.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\Angular2Mvc5Application3\Angular2Mvc5Application3\obj\Debug\Angular2Mvc5Application3.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\ApplicationInsights.config
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\csc.exe
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\System.Collections.Immutable.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\vbc.exe
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\VBCSCompiler.exe
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\roslyn\VBCSCompiler.exe.config
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Angular2Mvc5Application3.dll.config
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Angular2Mvc5Application3.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Angular2Mvc5Application3.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Antlr3.Runtime.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.SqlServer.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.DependencyCollector.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.Web.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.WindowsServer.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.ApplicationInsights.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.Web.Infrastructure.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Newtonsoft.Json.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Owin.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Helpers.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Mvc.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Optimization.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Razor.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Deployment.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Razor.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.Net4.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\WebGrease.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.DependencyCollector.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.Web.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AI.WindowsServer.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.ApplicationInsights.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Helpers.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Mvc.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Optimization.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.Razor.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Deployment.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\System.Web.WebPages.Razor.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\TypeLite.Net4.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Antlr3.Runtime.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Newtonsoft.Json.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\EntityFramework.SqlServer.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\obj\Debug\Angular2Mvc5Application3.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\obj\Debug\Angular2Mvc5Application3.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\POC\LPA UI\Angular2Mvc5Application3\Angular2Mvc5Application3\obj\Debug\Angular2Mvc5Application3.csprojResolveAssemblyReference.cache

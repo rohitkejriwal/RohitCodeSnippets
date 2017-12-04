@@ -1,0 +1,2269 @@
+{
+  "luis_schema_version": "2.0.0",
+  "versionId": "0.1",
+  "name": "LPAChat",
+  "desc": "Lottery Personal Assistant",
+  "culture": "en-us",
+  "intents": [
+    {
+      "name": "Conversation"
+    },
+    {
+      "name": "GameDetails"
+    },
+    {
+      "name": "GameJackpot"
+    },
+    {
+      "name": "GameNextDraw"
+    },
+    {
+      "name": "GamePlayStyle"
+    },
+    {
+      "name": "GameTicketprice"
+    },
+    {
+      "name": "GameWinningNumbers"
+    },
+    {
+      "name": "LotteryInfo"
+    },
+    {
+      "name": "None"
+    }
+  ],
+  "entities": [
+    {
+      "name": "Adieu"
+    },
+    {
+      "name": "chat"
+    },
+    {
+      "name": "GameName"
+    },
+    {
+      "name": "Keywords"
+    },
+    {
+      "name": "Welcome"
+    }
+  ],
+  "composites": [],
+  "closedLists": [],
+  "bing_entities": [
+    "datetime"
+  ],
+  "actions": [
+    {
+      "actionName": "GameDetails",
+      "intentName": "GameDetails",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "GameName",
+          "entityName": "GameName",
+          "required": true,
+          "question": "Which game details are you looking for?",
+          "phraseListFeatureName": "GameNames"
+        }
+      ]
+    },
+    {
+      "actionName": "GameJackpot",
+      "intentName": "GameJackpot",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "GameName",
+          "entityName": "GameName",
+          "required": true,
+          "question": "Which game's jackpot are you looking for?",
+          "phraseListFeatureName": "GameNames"
+        }
+      ]
+    },
+    {
+      "actionName": "GameNextDraw",
+      "intentName": "GameNextDraw",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "GameName",
+          "entityName": "GameName",
+          "required": true,
+          "question": "Which game's next draw are you looking for?",
+          "phraseListFeatureName": "GameNames"
+        }
+      ]
+    },
+    {
+      "actionName": "GamePlayStyle",
+      "intentName": "GamePlayStyle",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "GameName",
+          "entityName": "GameName",
+          "required": true,
+          "question": "Which game's play style are you looking for?",
+          "phraseListFeatureName": "GameNames"
+        }
+      ]
+    },
+    {
+      "actionName": "GameTicketprice",
+      "intentName": "GameTicketprice",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "GameName",
+          "entityName": "GameName",
+          "required": true,
+          "question": "Which game's ticket price are you looking for?",
+          "phraseListFeatureName": "GameNames"
+        }
+      ]
+    },
+    {
+      "actionName": "GameWinningNumbers",
+      "intentName": "GameWinningNumbers",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "GameName",
+          "entityName": "GameName",
+          "required": true,
+          "question": "Which game's winning numbers are you looking for?",
+          "phraseListFeatureName": "GameNames"
+        }
+      ]
+    },
+    {
+      "actionName": "LotteryInfo",
+      "intentName": "LotteryInfo",
+      "channel": null,
+      "actionParameters": [
+        {
+          "parameterName": "Keyword",
+          "entityName": "Keywords",
+          "required": true,
+          "question": "Sorry, I don't understand",
+          "phraseListFeatureName": "keywords"
+        }
+      ]
+    }
+  ],
+  "model_features": [
+    {
+      "name": "adieu",
+      "mode": true,
+      "words": "bye,bbye,bye bye,good bye,good night,sweet dreams,see you soon,c u soon,see u soon,c u,see you,gd bye,gd night,gd nyt,gdnyt,gd ni8,goodnight,goodbye",
+      "activated": true
+    },
+    {
+      "name": "chat",
+      "mode": true,
+      "words": "thanks,thank you,thanks u,thnk u,thnku,thanku,thnx,thanx,how are you,hru,hw r u,who are you,who r u,wru,useless,no use,do nothing,do nthng,can you do,cn you do,cn u do,can u do,you help,u help,help me,you help me,u help me",
+      "activated": true
+    },
+    {
+      "name": "GameNames",
+      "mode": true,
+      "words": "atlantic49,atlantic 49,bucko,keno,kenoatlantic,keno atlantic,lotto649,lotto 649,lotto6 / 49,Lotto 6 / 49,lottomax,lotto max,lotomax,loto max,salsabingo,salsa bingo,bingo,pik4,pik 4,pik four,pick4,pick 4,pick four,tag,shabam,sha bam,pokerlotto,poker lotto,lottopoker,lotto poker,lotopoker,loto poker,twist,lotto4,lotto 4,lotto four,dailygrand,daily grand",
+      "activated": true
+    },
+    {
+      "name": "keywords",
+      "mode": true,
+      "words": "addon game,add - on game,add on game,maxmillion,max million,max - million,guaranteed draw,guaranteed draws,additional guaranteed draw,additional guaranteed draws,bonus draw,bonus draws,bonus number,bonus numbers,lottery winnings taxable,lottery winning taxable,unclaimed prizes,unclaimed prize,unclaimed,2chance . ca,mobile site,winning number app,winning numbers app,winning numbers android app,winning numbers ios app",
+      "activated": true
+    },
+    {
+      "name": "welcome",
+      "mode": true,
+      "words": "Hi,Hi !,hello,hola,hey,good morning,good afternoon,good evening,afternoon,evening",
+      "activated": true
+    }
+  ],
+  "regex_features": [],
+  "utterances": [
+    {
+      "text": "ticket purpose for atlantic49",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "ticket purpose for",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "what is",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "xyz",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "abc",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "give me yilu yu yhlu yh;oj;o po of bucko",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 35,
+          "endPos": 39
+        }
+      ]
+    },
+    {
+      "text": "give me lottomax",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "show me lottomax",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "give me bucko",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "give me jknc kjcnk nkjc nkj of lottomax",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 31,
+          "endPos": 38
+        }
+      ]
+    },
+    {
+      "text": "lkmld slkm sl lkms lkm s",
+      "intent": "None",
+      "entities": []
+    },
+    {
+      "text": "lkmld slkm sl lkms lkm salsa bingo",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 23,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "jnkjc oije poks lkmc lotto4",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "jnkjc oije poks lkmc lotto 4",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "jklnsjnk js kmc kmc klmc bingo",
+      "intent": "None",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 25,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "c u",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "what is lottomax",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "what is lotto649",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "what is lotto6/49",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "give me details of lottomax",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "give me details of bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "what is bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "what is lotto 649",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "what is lotto max",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "what is lotto 6/49",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "what is salsa bingo",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "what is salsabingo",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "what is bingo",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "what is atlantic 49",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "what is tag",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "what is twist",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 12
+        }
+      ]
+    },
+    {
+      "text": "what is keno",
+      "intent": "GameDetails",
+      "entities": []
+    },
+    {
+      "text": "what is keno atlantic",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "what is kenoatlantic",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 19
+        }
+      ]
+    },
+    {
+      "text": "what is lotto 4",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 14
+        }
+      ]
+    },
+    {
+      "text": "what is lotto four",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "what is pik four",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "what is poker lotto",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "give me details of atlantic49",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "give me details of lotto 649",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "give me details of lotto6/49",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "give me details lotto max?",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 16,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "give me details of lotto 6/49",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "give me details of lotto max",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "give me details of salsabingo",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "give me details of salsa bingo",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "give me details of bingo",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "give me details of keno",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "give me details of keno atlantic",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "show me details of lotto649",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "lottomax details",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "bucko details",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "lotto4 details",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "atlantic 49 details",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "poker lotto",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "details hdjhjd jhdj of bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 23,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "bingo details",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "lottomax",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "lotto max",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "show me details of bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "whats is lottomax",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 9,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "show me details of lotto max",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "what is dailygrand",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "give me the game details of lottomax",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 28,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me info of bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 16,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "show me info of lottomax",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 16,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "show me the game bucko",
+      "intent": "GameDetails",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 17,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "how to play lottomax",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 19
+        }
+      ]
+    },
+    {
+      "text": "how to play lotto6/49",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "hot to play lotto 6/49",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "how to play it",
+      "intent": "GamePlayStyle",
+      "entities": []
+    },
+    {
+      "text": "how to play",
+      "intent": "GamePlayStyle",
+      "entities": []
+    },
+    {
+      "text": "how to play lotto 649",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "how to play atlantic49",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "how to play bingo",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "how to play bucko",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "how to play keno",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "how to play keno atlantic",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "how is lotto poker played",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 7,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "how is pik4 played",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 7,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "what are playing options for lottomax",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 29,
+          "endPos": 36
+        }
+      ]
+    },
+    {
+      "text": "what are playing options for bucko",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 29,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "how to play salsa bingo",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "how to play poker lotto?",
+      "intent": "GamePlayStyle",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 12,
+          "endPos": 23
+        }
+      ]
+    },
+    {
+      "text": "what is the ticket price for lottomax",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 29,
+          "endPos": 36
+        }
+      ]
+    },
+    {
+      "text": "what is ticket price for bucko",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 25,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "ticket price for bucko",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 17,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "ticket price of bucko",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 16,
+          "endPos": 20
+        }
+      ]
+    },
+    {
+      "text": "ticket price of lotto6/49",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 16,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "ticket price for atlantic49",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 17,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "what is the ticket price for pik4",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 29,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "what is the damage for atlantic 49",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 23,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "damage for lottomax",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 11,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "what is the damage for poker lotto",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 23,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "what is ticket prixe of lottomax",
+      "intent": "GameTicketprice",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 24,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "what is maxmillion",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "what is max million",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 8,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "what is guaranteed draw",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 8,
+          "endPos": 22
+        }
+      ]
+    },
+    {
+      "text": "what is bonus number",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 8,
+          "endPos": 19
+        }
+      ]
+    },
+    {
+      "text": "how do i enter \"2chance.ca\" contests?",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 16,
+          "endPos": 25
+        }
+      ]
+    },
+    {
+      "text": "do you have a mobile site?",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 14,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "what is add-on game",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 8,
+          "endPos": 18
+        }
+      ]
+    },
+    {
+      "text": "do you have a winning numbers app?",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 14,
+          "endPos": 32
+        }
+      ]
+    },
+    {
+      "text": "are lottery winnings taxable?",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 4,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "what happens to unclaimed prizes?",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 16,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "what is the jackpot",
+      "intent": "LotteryInfo",
+      "entities": []
+    },
+    {
+      "text": "how do i enter 2chance.ca contests?",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 15,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "what is jackpot",
+      "intent": "LotteryInfo",
+      "entities": []
+    },
+    {
+      "text": "what is bonus draw",
+      "intent": "LotteryInfo",
+      "entities": [
+        {
+          "entity": "Keywords",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "what is jackpot for lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 20,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "what is jackpot for lotto649",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 20,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "what is jackpot amount for poker lotto",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "current jackpot of tag",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "what is the worth of lottomax this time",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "what is the worth of pik 4",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 25
+        }
+      ]
+    },
+    {
+      "text": "what is the worth of poker lotto this time",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "what is the maximum prize for lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 30,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "what is the maximum prize for bucko",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 30,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "what is the jackpot for lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 24,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "lottomax jackpot",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "give me its jackpot",
+      "intent": "GameJackpot",
+      "entities": []
+    },
+    {
+      "text": "give me worth of lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 17,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "what is it's jackpot",
+      "intent": "GameJackpot",
+      "entities": []
+    },
+    {
+      "text": "give me jackpot of lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "lotto649 jackpot",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "jackpot lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 8,
+          "endPos": 15
+        }
+      ]
+    },
+    {
+      "text": "xyz worth this time",
+      "intent": "GameJackpot",
+      "entities": []
+    },
+    {
+      "text": "atlantic 49 worth this time",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "what is jackpot of lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "show me jackpot of lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 19,
+          "endPos": 26
+        }
+      ]
+    },
+    {
+      "text": "what is the worth for lotto649",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 22,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "what is worth of lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 17,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "what is the worth for lottomax",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 22,
+          "endPos": 29
+        }
+      ]
+    },
+    {
+      "text": "atlantic 49 jackpot",
+      "intent": "GameJackpot",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "give me jackpot amount",
+      "intent": "GameJackpot",
+      "entities": []
+    },
+    {
+      "text": "next draw for lottomax",
+      "intent": "GameNextDraw",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 14,
+          "endPos": 21
+        }
+      ]
+    },
+    {
+      "text": "when is next draw of daily grand",
+      "intent": "GameNextDraw",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "give me next draw date of bucko",
+      "intent": "GameNextDraw",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 26,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "give me next draw date of lottomax",
+      "intent": "GameNextDraw",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 26,
+          "endPos": 33
+        }
+      ]
+    },
+    {
+      "text": "winning numbers for bucko",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 20,
+          "endPos": 24
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers for lottomax",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 28,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "show winning numbers of poker lotto",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 24,
+          "endPos": 34
+        }
+      ]
+    },
+    {
+      "text": "give me winning number of lottomax for last week",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 26,
+          "endPos": 37
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of bucko for 31st july",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers for lotto 649",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 28,
+          "endPos": 36
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of lotto 649 of 30th june",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of lotto 649 of 30-06",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of lotto 649 of 30th 06",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of lotto 649 of 06/30/12",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of lotto 649 of 30th jun",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "winning number of lottomax of last week",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 18,
+          "endPos": 25
+        }
+      ]
+    },
+    {
+      "text": "give me winning numbers of lotto 649 of 30-06-12",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 27,
+          "endPos": 35
+        }
+      ]
+    },
+    {
+      "text": "give me winning number for 31st june 2015",
+      "intent": "GameWinningNumbers",
+      "entities": []
+    },
+    {
+      "text": "give me winning number for 31st july 2015",
+      "intent": "GameWinningNumbers",
+      "entities": []
+    },
+    {
+      "text": "show me winning info of lottomax",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 24,
+          "endPos": 31
+        }
+      ]
+    },
+    {
+      "text": "show me draw number of lottomax",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 23,
+          "endPos": 30
+        }
+      ]
+    },
+    {
+      "text": "show me draw info of lottomax",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 21,
+          "endPos": 28
+        }
+      ]
+    },
+    {
+      "text": "show me draw result of bucko",
+      "intent": "GameWinningNumbers",
+      "entities": [
+        {
+          "entity": "GameName",
+          "startPos": 23,
+          "endPos": 27
+        }
+      ]
+    },
+    {
+      "text": "hi",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "hello",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "hola alan",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "hola",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "hello there",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "hey there",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "hi there",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 1
+        }
+      ]
+    },
+    {
+      "text": "hi alan",
+      "intent": "Conversation",
+      "entities": []
+    },
+    {
+      "text": "good morning",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "good evening",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "good night",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 9
+        }
+      ]
+    },
+    {
+      "text": "bye",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "bbye",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 3
+        }
+      ]
+    },
+    {
+      "text": "bye bye",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "sweet dreams",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "hi!",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Welcome",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "b bye",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "good bye",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "see you soon",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 11
+        }
+      ]
+    },
+    {
+      "text": "c u soon",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "see you",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "thanks",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "thanku",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "thankx",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "thank you",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 8
+        }
+      ]
+    },
+    {
+      "text": "thank u",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "thnkx",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 4
+        }
+      ]
+    },
+    {
+      "text": "thanks u",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "thnk u",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 5
+        }
+      ]
+    },
+    {
+      "text": "goodbye",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 6
+        }
+      ]
+    },
+    {
+      "text": "how are you",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "hru",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 2
+        }
+      ]
+    },
+    {
+      "text": "gd night",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "Adieu",
+          "startPos": 0,
+          "endPos": 7
+        }
+      ]
+    },
+    {
+      "text": "who are you?",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 0,
+          "endPos": 10
+        }
+      ]
+    },
+    {
+      "text": "you are useless",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 8,
+          "endPos": 14
+        }
+      ]
+    },
+    {
+      "text": "you are of no use",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 11,
+          "endPos": 16
+        }
+      ]
+    },
+    {
+      "text": "you can do nothing",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 8,
+          "endPos": 17
+        }
+      ]
+    },
+    {
+      "text": "what can you do",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 5,
+          "endPos": 14
+        }
+      ]
+    },
+    {
+      "text": "how can you help me",
+      "intent": "Conversation",
+      "entities": [
+        {
+          "entity": "chat",
+          "startPos": 8,
+          "endPos": 18
+        }
+      ]
+    }
+  ]
+}

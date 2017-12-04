@@ -1,0 +1,50 @@
+﻿
+? Query 
+# intent 
+= result 
+% entity 
+! suggestion 
+$ user selection 
+// comment 
+------------------------------------------
+
+
+? Give me the Lottery Product name 
+? Lottery Games
+? List of Lottery Games
+? Games for Lottery
+#LotteryGames
+= Bingo 
+= Lotto 
+
+
+?Give me game details of Bingo 
+#GamesDetails 
+%Gamename = Bingo
+
+
+
+? What is the jackpot amount of Lotto?
+#GamesJackpot
+%Game name = Lotto.
+
+
+
+? What is the tickt price 
+#GameTicketPrice 
+%Lotto 
+
+
+? Lotto 
+! (Lotto game details?) (Lotto Jackpot Amount) (Lotto Ticket price)  (X)
+$ (Lotto Jackpot Amount)   // here it will added in AI for future reference 
+= Jackpot amount is 299999
+
+
+? Bingo 
+! (Lotto game details?) 
+$ (Lotto game details?).
+= Bingo is the game of xyx asd as.
+
+
+

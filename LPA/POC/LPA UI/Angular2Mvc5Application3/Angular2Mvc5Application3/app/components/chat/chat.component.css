@@ -1,0 +1,164 @@
+﻿.leftcontainer {
+    flex: 1;
+    flex-direction:column;
+    margin-right: 8px;
+    overflow: auto;
+    background-color: #e6ffff;
+}
+
+.centercontainer {
+    flex: 2;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+    .centercontainer > .list-group {
+        flex: 1;
+    }
+
+.showhidetasks {
+    margin: 4px;
+    flex-shrink: 0;
+}
+
+.checkicon {
+    font-size: 1.6em;
+    cursor: pointer;
+}
+
+.actionenable {
+    font-size: 1.6em;
+    cursor: pointer;
+}
+
+.actiondisable {
+    font-size: 1.6em;
+    color: #ddd;
+}
+
+.addcontent {
+    display: flex;
+}
+
+    .addcontent input {
+        margin-left: 8px;
+    }
+
+.taskwrapper {
+    display: flex;
+    align-content: center;
+}
+
+    .taskwrapper > div {
+        display: flex;
+        align-items: center;
+        margin-left: 4px;
+    }
+
+    .taskwrapper > .actionbtn {
+        margin-left: 8px;
+        visibility: hidden;
+        font-size: 1.4em;
+        cursor: pointer;
+    }
+
+    .taskwrapper:hover > .actionbtn {
+        visibility: visible;
+    }
+
+.addcontentlist {
+    margin:0px;
+}
+
+    .addcontentlist input {
+        margin-left: 8px;
+    }
+
+.listwrapper {
+    display: flex;
+    flex: 1;
+}
+
+.listitemwrapper {
+    display: flex;
+    flex: 1;
+    align-content: center;
+    max-width:80%;
+}
+
+.listqueryitemwrapper {
+    align-content: center;
+    max-width:80%;
+    display:inline-block; 
+    float:right;
+    flex:0;
+}
+
+.listresponseitemwrapper {
+    display: flex;
+    flex: 1;
+    align-content: center;
+    max-width:80%;
+}
+
+    .listitemwrapper .actionbtn {
+        margin-left: 8px;
+        visibility: hidden;
+    }
+
+    .listitemwrapper:hover .actionbtn {
+        visibility: visible;
+         vertical-align:central;
+    }
+
+.suggestionswrapper {
+    align-content: center;
+    display:inline;
+    text-align: right;
+}
+
+.suggestion {
+    display: block;
+    float: right;
+    margin-left: 10px;
+    padding: 3px 8px 3px 8px;
+    border: 0.5px solid #2bc5e6;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: normal;
+    box-shadow: 0px 0px 5px rgba(128, 128, 128, 0.23);
+}
+
+.all_tags {
+    width:100%;
+    overflow-x:scroll;
+    overflow-y: hidden;
+    text-align: right;
+    white-space:nowrap;
+    padding: 11px 15px;
+}
+
+.tag{
+    display: inline-block;
+    padding: 8px 15px;
+    border: solid #4a44a8 1px;
+    border-radius: 16px;
+    min-width: 38px;
+    text-align: center;
+    background: #fff;
+    color: #000;
+    max-height:35px;
+    outline: none;
+    font-family: "Myriad Regular";
+    font-size: 14px;
+}
+
+.status{
+    display: inline-block;
+    margin-bottom: 5px;
+    font-weight: normal;
+    text-align: right;
+    text-shadow: 0.3px 0.1px grey;
+    color: #91e3ec;
+}

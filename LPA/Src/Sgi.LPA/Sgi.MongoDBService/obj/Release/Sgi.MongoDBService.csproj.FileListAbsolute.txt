@@ -1,0 +1,15 @@
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\Sgi.MongoDBService.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\Sgi.MongoDBService.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\MongoDB.Bson.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\MongoDB.Driver.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\MongoDB.Driver.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\MongoDB.Driver.Legacy.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\Newtonsoft.Json.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\Sgi.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\Sgi.Core.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\MongoDB.Bson.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\MongoDB.Driver.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\bin\Release\Newtonsoft.Json.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\obj\Release\Sgi.MongoDBService.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\obj\Release\Sgi.MongoDBService.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.MongoDBService\obj\Release\Sgi.MongoDBService.pdb

@@ -1,0 +1,9 @@
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\bin\Release\Logger.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\bin\Release\Logger.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\bin\Release\Logger.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\bin\Release\Logger.Domain.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\bin\Release\Logger.Core.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\bin\Release\Logger.Domain.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\obj\Release\Logger.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\obj\Release\Logger.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger\obj\Release\Logger.pdb

@@ -1,0 +1,36 @@
+﻿<form *ngIf="!haserror">
+    <div class="leftcontainer borderedboxlight" style="background-image:url('../../../SGI.LPA.UI/app/contents/images/background_03.jpg'); background-size: 100% 100%; background-color: rgba(255,255,255,0.55);background-blend-mode: lighten;">
+        <div #ChatListContainer class="list-group" style="display: flex;flex-direction: column; width:100%; height:100%; padding:10px;" *ngIf="chatlist">
+            <div *ngFor="let listitem of chatlist">
+                <div class="listqueryitemwrapper" [style.display]="isQuery(listitem.Type)">
+                    <div class={{listitem.Type}} style="display:block;" [innerHTML] = listitem.Message></div>
+                    <img src="../../../SGI.LPA.UI/app/contents/images/dp.png" style="display:block; width:30px; height: 30px; border-radius: 50%; margin-left:4px;" />
+                </div>
+                <div class="listresponseitemwrapper" [style.display]="isResponse(listitem.Type)">
+                    <img src="../../../SGI.LPA.UI/app/contents/images/allo.png" style="display:block; width:30px; height: 25px; border-radius: 50%; margin-right:4px;" />
+                    <div class={{listitem.Type}} style="display:block;" *ngIf="isTextTypeResponse(listitem.ContentType)">{{listitem.Message}}</div>
+                    <div class={{listitem.Type}} style="display:block;" *ngIf="isImageTypeResponse(listitem.ContentType)">
+                        <img style="width:100%" src="data:image/jpeg;base64,{{listitem.Message}}">
+                    </div>
+                </div>
+            </div>
+            <label id="status" class="status"></label>
+            <div>
+                <div *ngIf="suggestions" class="suggestionswrapper" >
+                    <div class="suggestion" (click)="suggestionclick(suggestion)" *ngFor="let suggestion of suggestions" [innerHTML] = suggestion></div>
+                    </div><div class="suggestionswrapper">
+                    <button *ngIf="_appService.showLikeDislikeButtons" class="suggestion" (click)="suggestionclick('Dislike')"><i class="glyphicon glyphicon-thumbs-down"></i></button>
+                    <button *ngIf="_appService.showLikeDislikeButtons" class="suggestion" (click)="suggestionclick('Like')"><i class="glyphicon glyphicon-thumbs-up"></i></button>
+                </div>
+            </div>
+        </div>
+        <div class="addcontentlist">
+            <div *ngIf="_appService.isProcessing" style="font-style: italic; vertical-align:bottom; padding-left: 5px; padding-right: 8px; border-radius: 5px; font-weight: bold; position: absolute; margin-left: -10px; margin-top: 600px;">
+                Assistant typing ...
+            </div>
+            <input id="chatTextBox" type="text" name="chatTextBox" style="display:none" />&nbsp;&nbsp;
+            <input id="authToken" type="text" name="authToken" style="display:none" />&nbsp;&nbsp;
+            <button id="chatSendButton" (click)="addChatFromJS(authToken)" style="display:none">Send</button>
+        </div>
+    </div>
+</form>

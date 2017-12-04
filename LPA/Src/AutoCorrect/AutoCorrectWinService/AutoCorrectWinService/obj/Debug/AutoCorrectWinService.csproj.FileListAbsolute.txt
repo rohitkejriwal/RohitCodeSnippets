@@ -1,0 +1,8 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\bin\Debug\AutoCorrectWinService.exe.config
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\bin\Debug\AutoCorrectWinService.exe
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\bin\Debug\AutoCorrectWinService.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\bin\Debug\AutoCorrect.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\bin\Debug\AutoCorrect.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\obj\Debug\AutoCorrectWinService.csprojResolveAssemblyReference.cache
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\obj\Debug\AutoCorrectWinService.exe
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWinService\AutoCorrectWinService\obj\Debug\AutoCorrectWinService.pdb

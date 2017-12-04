@@ -1,0 +1,7 @@
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Release\Sgi.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Release\Sgi.Core.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Release\Newtonsoft.Json.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Release\Newtonsoft.Json.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\obj\Release\Sgi.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\obj\Release\Sgi.Core.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\obj\Release\Sgi.Core.csprojResolveAssemblyReference.cache

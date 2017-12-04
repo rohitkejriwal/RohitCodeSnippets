@@ -1,0 +1,10 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\AI.Test\bin\Debug\AI.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\AI.Test\bin\Debug\AI.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\AI.Test\obj\Debug\AI.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\AI.Test\obj\Debug\AI.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\AI.Test\obj\Debug\AI.Test.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\AI.Test\bin\Debug\AI.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\AI.Test\bin\Debug\AI.Test.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\AI.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\AI.Test\obj\Debug\AI.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\AI.Test\obj\Debug\AI.Test.pdb

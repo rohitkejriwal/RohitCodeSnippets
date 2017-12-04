@@ -1,0 +1,10 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatEngine.Test\bin\Debug\ChatEngine.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatEngine.Test\bin\Debug\ChatEngine.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatEngine.Test\obj\Debug\ChatEngine.Test.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatEngine.Test\obj\Debug\ChatEngine.Test.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\ChatEngine.Test\obj\Debug\ChatEngine.Test.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatEngine.Test\bin\Debug\ChatEngine.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatEngine.Test\bin\Debug\ChatEngine.Test.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatEngine.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatEngine.Test\obj\Debug\ChatEngine.Test.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\ChatEngine.Test\obj\Debug\ChatEngine.Test.pdb

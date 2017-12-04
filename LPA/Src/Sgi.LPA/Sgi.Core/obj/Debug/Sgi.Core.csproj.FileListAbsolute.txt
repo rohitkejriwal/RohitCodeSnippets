@@ -1,0 +1,13 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\bin\Debug\Sgi.Core.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\bin\Debug\Sgi.Core.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\obj\Debug\Sgi.Core.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\obj\Debug\Sgi.Core.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.Core\obj\Debug\Sgi.Core.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Debug\Sgi.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Debug\Sgi.Core.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\obj\Debug\Sgi.Core.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.Core\obj\Debug\Sgi.Core.pdb

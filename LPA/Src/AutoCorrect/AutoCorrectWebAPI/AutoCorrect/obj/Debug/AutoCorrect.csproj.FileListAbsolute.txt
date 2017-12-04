@@ -1,0 +1,5 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWebAPI\AutoCorrect\bin\Debug\AutoCorrect.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWebAPI\AutoCorrect\bin\Debug\AutoCorrect.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWebAPI\AutoCorrect\obj\Debug\AutoCorrect.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWebAPI\AutoCorrect\obj\Debug\AutoCorrect.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\AutoCorrectWebAPI\AutoCorrect\obj\Debug\AutoCorrect.csprojResolveAssemblyReference.cache

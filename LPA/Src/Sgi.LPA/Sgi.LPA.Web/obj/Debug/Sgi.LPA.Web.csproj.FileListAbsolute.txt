@@ -1,0 +1,12 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.LPA.Web\bin\Sgi.LPA.Web.dll.config
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.LPA.Web\bin\Sgi.LPA.Web.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.LPA.Web\bin\Sgi.LPA.Web.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.LPA.Web\obj\Debug\Sgi.LPA.Web.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.LPA.Web\obj\Debug\Sgi.LPA.Web.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Sgi.LPA.Web\obj\Debug\Sgi.LPA.Web.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.LPA.Web\bin\Sgi.LPA.Web.dll.config
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.LPA.Web\bin\Sgi.LPA.Web.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.LPA.Web\bin\Sgi.LPA.Web.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.LPA.Web\obj\Debug\Sgi.LPA.Web.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.LPA.Web\obj\Debug\Sgi.LPA.Web.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Sgi.LPA.Web\obj\Debug\Sgi.LPA.Web.pdb

@@ -1,0 +1,10 @@
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Logger.Domain\bin\Debug\Logger.Domain.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Logger.Domain\bin\Debug\Logger.Domain.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Logger.Domain\obj\Debug\Logger.Domain.dll
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Logger.Domain\obj\Debug\Logger.Domain.pdb
+C:\Users\rohit.kejriwal@scientificgames.com\Rohit\POC\LPA Src\Sgi.LPA\Logger.Domain\obj\Debug\Logger.Domain.csprojResolveAssemblyReference.cache
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.Domain\bin\Debug\Logger.Domain.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.Domain\bin\Debug\Logger.Domain.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.Domain\obj\Debug\Logger.Domain.dll
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.Domain\obj\Debug\Logger.Domain.pdb
+C:\Rohit\OpenSourcing\Open Sourcing\LPA\Src\Sgi.LPA\Logger.Domain\obj\Debug\Logger.Domain.csprojResolveAssemblyReference.cache
